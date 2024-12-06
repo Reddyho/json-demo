@@ -1,0 +1,10 @@
+{"employee":
+    {
+        "empid":101,
+        "name" :"teja",
+        "desig":"developer",
+        "technology":["java","mysql","python"],
+        "performance":[8,9,9,5,8,5,9],
+        "comments":"using key-Array in JSON"
+    }
+}
